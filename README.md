@@ -8,7 +8,7 @@
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lucilaneosantos)
 
 
-- 🔭 OTW! Desenvolvedor no backend end, e curioso por novas tecnologias
+- 🔭 OTW! Curioso por novas tecnologias
 - 🌱 Java é meu Start
 - 📫 Presente nas comunidades e foruns para ajudar e tentar resolver problemas.
 
